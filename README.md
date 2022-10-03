@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFN-J8XKeE/4y8Bib78gj7BmuXRmJaoNQ/edit?utm_content=DAFN-J8XKeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
