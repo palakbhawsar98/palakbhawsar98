@@ -1,6 +1,6 @@
-![Blue Aqua Minimalist Sea Soothes the Soul Quote Instagram Post (1)](https://user-images.githubusercontent.com/69889600/193547808-baa9e1e4-26ba-459c-8f98-33ae4e2f5ea0.png)
+![Blue Aqua Minimalist Sea Soothes the Soul Quote Instagram Post (2)](https://user-images.githubusercontent.com/69889600/193550007-c443c574-1747-4951-aa19-a1596246d30c.png)
 <h1 align="center">Hey, I'm Palak 👩‍💻</h1>
-<h3 align="center">An AWS & DevOps Enthusiast from India</h3>
+<h3 align="center">A passionate Software Enginner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhawsar98&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhawsar98" /> </p>
 
