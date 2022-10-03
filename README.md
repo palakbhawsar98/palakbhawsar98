@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Palak</h1>
+<h1 align="center">Hey, I'm Palak ✨</h1>
 <h2 align="center">An AWS & DevOps Enthusiast</h2>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
