@@ -1,4 +1,5 @@
-![Blue Aqua Minimalist Sea Soothes the Soul Quote Instagram Post (2)](https://user-images.githubusercontent.com/69889600/193550007-c443c574-1747-4951-aa19-a1596246d30c.png)
+![imagegit](https://user-images.githubusercontent.com/69889600/193552218-0ebf9961-fe69-45bd-98bc-c29771758f59.png)
+
 <h1 align="center">Hey, I'm Palak 👩‍💻</h1>
 <h3 align="center">A passionate Software Enginner from India</h3>
 
