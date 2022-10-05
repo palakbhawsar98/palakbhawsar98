@@ -1,7 +1,7 @@
 ![imagegit](https://user-images.githubusercontent.com/69889600/193552218-0ebf9961-fe69-45bd-98bc-c29771758f59.png)
 
 <h1 align="center">Hey, I'm Palak 👩‍💻</h1>
-<h3 align="center">A passionate Software Enginner from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhawsar98&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhawsar98" /> </p>
 
