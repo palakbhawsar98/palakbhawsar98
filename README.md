@@ -15,6 +15,13 @@
 
 - ⚡ Fun fact **Life long learner**
 
+### My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Host a Static Website on AWS;](https://palak-bhawsar.hashnode.dev/host-a-static-website-on-aws)
+- [20 Useful Docker Commands;](https://palak-bhawsar.hashnode.dev/20-useful-docker-commands)
+- [Install Jenkins in EC2 Using User Data Script;](https://palak-bhawsar.hashnode.dev/install-jenkins-in-ec2-instance-using-user-data-script)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/palak-bhawsar-ba339a183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palakbhawsar5@gmail.com" height="30" width="40" /></a>
