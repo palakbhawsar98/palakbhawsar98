@@ -17,6 +17,7 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Launch an EC2 Instance using Terraform](https://palak-bhawsar.hashnode.dev/launch-an-ec2-instance-using-terraform)
 - [Install Jenkins in EC2 Instance using User Data Script](https://palak-bhawsar.hashnode.dev/install-jenkins-in-ec2-instance-using-user-data-script)
 - [20 Useful Docker Commands](https://palak-bhawsar.hashnode.dev/20-useful-docker-commands)
 - [Host a static website on AWS](https://palak-bhawsar.hashnode.dev/host-a-static-website-on-aws)
