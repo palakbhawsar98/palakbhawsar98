@@ -17,6 +17,7 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform: Create VPC, Subnets, and EC2 instances in multiple availability zones](https://palak-bhawsar.hashnode.dev/terraform-create-vpc-subnets-and-ec2-instances-in-multiple-availability-zones)
 - [Launch an EC2 Instance using Terraform](https://palak-bhawsar.hashnode.dev/launch-an-ec2-instance-using-terraform)
 - [Install Jenkins in EC2 Instance using User Data Script](https://palak-bhawsar.hashnode.dev/install-jenkins-in-ec2-instance-using-user-data-script)
 - [20 Useful Docker Commands](https://palak-bhawsar.hashnode.dev/20-useful-docker-commands)
