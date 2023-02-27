@@ -15,11 +15,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create free tier AWS account, create IAM user and set CloudWatch alarm for billing](https://palak-bhawsar.hashnode.dev/create-free-tier-aws-account-create-iam-user-and-set-cloudwatch-alarm-for-billing)
 - [Create pipeline using Jenkins GitHub and AWS for Java Project](https://palak-bhawsar.hashnode.dev/create-pipeline-using-jenkins-github-and-aws-for-java-project)
 - [Terraform Cloud: Manage Terraform Remote State file](https://palak-bhawsar.hashnode.dev/terraform-cloud-manage-terraform-remote-state-file)
 - [Terraform: Create VPC, Subnets, and EC2 instances in multiple availability zones](https://palak-bhawsar.hashnode.dev/terraform-create-vpc-subnets-and-ec2-instances-in-multiple-availability-zones)
 - [Launch an EC2 Instance using Terraform](https://palak-bhawsar.hashnode.dev/launch-an-ec2-instance-using-terraform)
-- [Install Jenkins in EC2 Instance using User Data Script](https://palak-bhawsar.hashnode.dev/install-jenkins-in-ec2-instance-using-user-data-script)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palakbhawsar98&show_icons=true&locale=en&layout=compact" alt="palakbhawsar98" /></p>
