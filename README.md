@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhawsar98&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhawsar98" /> </p>
 
-- 💻 I’m currently learning **Kubernetes and Terrform**
+- 💻 I’m currently learning **Kubernetes and Terraform**
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
-- 💬 Ask me about **AWS Docker Jenkins Ansible Linux Bash Java**
+- 💬 Ask me about **AWS Docker Jenkins Ansible Linux Bash**
 
 - 📫 How to reach me **palakbhawsar5@gmail.com**
 
