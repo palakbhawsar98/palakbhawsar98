@@ -11,7 +11,7 @@
 | Terraform/AWS Projects ☁    | Containerization Projects 🦈    | CI/CD Projects  🔗  |
 | -------------              | -------------                 | --------          |
 | [Build highly available infrastructure using Terraform](https://github.com/palakbhawsar98/Terraform-Build-highly-available-infrastructure)| [Dockerize Java application and expose at port 8081](https://github.com/palakbhawsar98/DevOps-CI-CD/blob/main/Dockerfile) | [Create automated CI/CD pipeline using Jenkins ](https://github.com/palakbhawsar98/DevOps-CI-CD)           |
-| [Manage terraform remote state file in Terraform Cloud](https://github.com/palakbhawsar98/Terraform-remote-state-file-using-terraform-cloud/tree/main) | [Contanerize Java/MySQL application using Docker compose](https://github.com/palakbhawsar98/OnlineFitnessAndNutrition/blob/main/docker-compose.yml)                         | [CI pipeline to Build, test, and scan code using Jenkins](https://github.com/palakbhawsar98/Jenkins-Notes/blob/main/CI-using-SonarQube-Checksum-Nexus/Jenkinsfile)           |
+| [Manage terraform remote state file in Terraform Cloud](https://github.com/palakbhawsar98/Terraform-remote-state-file-using-terraform-cloud/tree/main) | [Containerize Java/MySQL application using Docker compose](https://github.com/palakbhawsar98/OnlineFitnessAndNutrition/blob/main/docker-compose.yml)                         | [CI pipeline to Build, test, and scan code using Jenkins](https://github.com/palakbhawsar98/Jenkins-Notes/blob/main/CI-using-SonarQube-Checksum-Nexus/Jenkinsfile)           |
 
 - 💬 Ask me about **AWS Docker Jenkins Ansible Linux Bash**
 
