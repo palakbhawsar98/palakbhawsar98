@@ -4,9 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhawsar98&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhawsar98" /> </p>
 
-- 💻 I’m currently learning **Kubernetes and Terraform**
+- 💻 I’m currently learning **Kubernetes**
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
+
+| Terraform/AWS Projects ☁    | Containerization Projects 🦈    | CI/CD Projects  🔗  |
+| -------------              | -------------                 | --------          |
+| [Building highly available infrastructure using Terraform](https://github.com/palakbhawsar98/Terraform-Notes/tree/main/terraform-vpc-hands-on) | [Dockerize Java application and expose at port 8081](https://github.com/palakbhawsar98/DevOps-CI-CD/blob/main/Dockerfile) | [Create automated CI/CD pipeline using Jenkins ](https://github.com/palakbhawsar98/DevOps-CI-CD)           |
+| [Manage terraform remote state file in Terraform Cloud](https://github.com/palakbhawsar98/Terraform-Notes/blob/main/terraform-remote-state-hands-on/main.tf) | [Contanerize Java/MySQL application using Docker compose](https://github.com/palakbhawsar98/OnlineFitnessAndNutrition/blob/main/docker-compose.yml)                         | [CI pipeline to Build, test, and scan code using Jenkins](https://github.com/palakbhawsar98/Jenkins-Notes/blob/main/CI-using-SonarQube-Checksum-Nexus/Jenkinsfile)           |
 
 - 💬 Ask me about **AWS Docker Jenkins Ansible Linux Bash**
 
