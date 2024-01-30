@@ -20,11 +20,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring AWS Services Using CloudWatch](https://palak-bhawsar.hashnode.dev/monitoring-aws-services-using-cloudwatch)
 - [Architect two tier Secure and Scalable AWS Infrastructure with Terraform](https://palak-bhawsar.hashnode.dev/architect-two-tier-secure-and-scalable-aws-infrastructure-with-terraform)
 - [S3 Event-Driven Email Notifications using AWS Lambda and SQS](https://palak-bhawsar.hashnode.dev/s3-event-driven-email-notifications-using-aws-lambda-and-sqs)
 - [Automated CI/CD pipeline for Java Project](https://palak-bhawsar.hashnode.dev/automated-cicd-pipeline-for-java-project)
 - [Create free tier AWS account, create IAM user and set CloudWatch alarm for billing](https://palak-bhawsar.hashnode.dev/create-free-tier-aws-account-create-iam-user-and-set-cloudwatch-alarm-for-billing)
-- [Create pipeline using Jenkins GitHub and AWS for Java Project](https://palak-bhawsar.hashnode.dev/create-pipeline-using-jenkins-github-and-aws-for-java-project)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palakbhawsar98&show_icons=true&locale=en&layout=compact" alt="palakbhawsar98" /></p>
