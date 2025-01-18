@@ -20,11 +20,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Sentiment Analysis for Product Reviews &amp; Visualization](https://palak-bhawsar.hashnode.dev/ai-powered-sentiment-analysis-for-product-reviews-visualization)
 - [CI/CD pipeline for Terraform Project](https://palak-bhawsar.hashnode.dev/cicd-pipeline-for-terraform-project)
 - [Monitoring AWS Services Using CloudWatch](https://palak-bhawsar.hashnode.dev/monitoring-aws-services-using-cloudwatch)
 - [Architect two tier Secure and Scalable AWS Infrastructure with Terraform](https://palak-bhawsar.hashnode.dev/architect-two-tier-secure-and-scalable-aws-infrastructure-with-terraform)
 - [S3 Event-Driven Email Notifications using AWS Lambda and SQS](https://palak-bhawsar.hashnode.dev/s3-event-driven-email-notifications-using-aws-lambda-and-sqs)
-- [Automated CI/CD pipeline for Java Project](https://palak-bhawsar.hashnode.dev/automated-cicd-pipeline-for-java-project)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palakbhawsar98&show_icons=true&locale=en&layout=compact" alt="palakbhawsar98" /></p>
